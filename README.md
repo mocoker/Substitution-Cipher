@@ -2,5 +2,5 @@
 Substitution Cipher Algorithm
 
 # About
-This algorithm was developed for educational use my me.
+This algorithm was developed for educational purpose my me.
 Contributions are welcome
